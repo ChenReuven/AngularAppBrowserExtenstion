@@ -1,0 +1,14 @@
+{
+  "manifest_version": 2,
+  "name": "AngularAppBrowserExtension",
+  "description": "",
+  "version": "1",
+  "author": "Chen Reuven",
+  "browser_action": {
+    "default_title": "Angular App Browser Extension",
+    "default_popup": "popup.html"
+  },
+  "permissions": [
+    "activeTab"
+  ]
+}
